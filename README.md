@@ -4,9 +4,9 @@ Template React/Vite para UX fomo, diseñado siguiendo las reglas de diseño de `
 
 ## 📊 Estado Actual
 
-**Versión:** 1.0.0 (Actualizado Feb 2026)  
-**Estado:** ✅ Funcional y listo para desarrollo  
-**Última actualización:** Integración completa de Radix UI para accesibilidad
+**Versión:** 1.0.1 (Actualizado Feb 2026)
+**Estado:** ✅ Funcional y listo para desarrollo
+**Última actualización:** Correcciones de calidad de código y actualización de dependencias
 
 ### Lo que funciona:
 - ✅ Navegación completa con menús desplegables (Radix UI)
@@ -59,11 +59,11 @@ Template React/Vite para UX fomo, diseñado siguiendo las reglas de diseño de `
 
 ### Core
 - **React 19.2.0** - Biblioteca UI con las últimas características
-- **Vite 7.2.4** - Build tool ultra-rápido con HMR
+- **Vite 7.3.1** - Build tool ultra-rápido con HMR
 - **React Router DOM 7.13.0** - Navegación entre páginas
 
 ### Estilos
-- **Tailwind CSS 4.1.18** - Framework CSS utility-first con plugin de Vite
+- **Tailwind CSS 4.2.0** - Framework CSS utility-first con plugin de Vite
 - **CSS Custom Properties** - Variables para temas y consistencia
 
 ### Componentes UI

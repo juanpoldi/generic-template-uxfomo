@@ -6,10 +6,9 @@ function SearchIcon({ className = 'w-5 h-5' }) {
   )
 }
 
-export default function SearchBar({ 
+export default function SearchBar({
   placeholder = 'Buscar contenido, miembros, recursos...',
   onSearch,
-  onClose,
   autoFocus = true,
   className = ''
 }) {
